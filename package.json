@@ -1,7 +1,7 @@
 {
   "name": "getknowledge",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.git push -u origin main0",
   "type": "module",
   "scripts": {
     "dev": "vite",
